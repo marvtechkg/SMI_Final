@@ -1424,7 +1424,7 @@ preloader
   top: 0;
   right: 0;
   bottom: 0;
-  display: block;
+  
   position: absolute;
   margin: auto;
   width: 50px;
